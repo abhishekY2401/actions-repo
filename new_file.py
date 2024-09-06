@@ -3,3 +3,6 @@ def say_hello():
 
 def foo():
   print("foo")
+
+def zoo():
+  print("zoo")
